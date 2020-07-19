@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Codename Coder Free 4F';
+    src: url('CodenameCoderFree4F-Bold.woff2') format('woff2'),
+        url('CodenameCoderFree4F-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
