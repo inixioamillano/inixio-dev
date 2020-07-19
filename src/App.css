@@ -2,15 +2,107 @@
   text-align: center;
 }
 
+@font-face {
+  font-family: 'Codename Coder Free 4F';
+  src: url('CodenameCoderFree4F-Bold.woff2') format('woff2'),
+      url('CodenameCoderFree4F-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1, h2, h3, h4, h5, h6, .nav-link, .tl-date, .tl-date-mobile, .footer {
+  font-family: 'Codename Coder Free 4F';
+}
+
+.footer {
+  color: white;
+}
+
+.tl-date {
+  color: black
+}
+
+.tl-date.mobile {
+  color: white;
+}
+
+.linkedin:hover {
+  color: #0e76a8;
+}
+
+.Typewriter__cursor {
+  color: blue
+}
+
+.git:hover {
+  color: #F1502F
+}
+
+.icon {
+  margin-left: 150;
+}
+
+.twitter:hover {
+  color:  #00acee;
+}
+
+#container {
+  display: flex;
+}
+
+#space-around {
+  justify-content: space-around;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: white;
+}
+
+
+.circular-image, .icon {
+  border-radius: 90%;
+}
+
+
+.icon {
+  background-color: white;
+}
+
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 160px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #111; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.vertically-centered {
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .App-header {
