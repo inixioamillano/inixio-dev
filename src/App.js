@@ -49,7 +49,7 @@ function App() {
                   <Fab className="git" style={{margin: 2}} href="https://github.com/inixioamillano" size="medium">
                     <i class="fa fa-git"></i>
                   </Fab>
-                  <Fab className="twitter" style={{margin: 2}} href="https://github.com/inixioamillano" size="medium">
+                  <Fab className="twitter" style={{margin: 2}} href="https://github.com/inixioamillano" size="medium" disabled>
                     <i class="fa fa-twitter"></i>
                   </Fab>
                 </div>
@@ -91,7 +91,7 @@ function App() {
                   <Fab className="git" style={{margin: 10}} href="https://github.com/inixioamillano" size="medium">
                     <i class="fa fa-git"></i>
                   </Fab>
-                  <Fab className="twitter" style={{margin: 10}} href="https://github.com/inixioamillano" size="medium">
+                  <Fab className="twitter" style={{margin: 10}} href="https://github.com/inixioamillano" size="medium" disabled>
                     <i class="fa fa-twitter"></i>
                   </Fab>
               </div>}
