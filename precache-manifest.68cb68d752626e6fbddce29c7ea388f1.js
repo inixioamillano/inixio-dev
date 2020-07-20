@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "672e6801a9bf1e1cb9e7c93024b5bc95",
+    "revision": "eef694e5fede66f5960544f322693f96",
     "url": "/inixio-dev/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/inixio-dev/static/css/2.e53f431d.chunk.css"
   },
   {
-    "revision": "f33277af2fa4a343bd57",
+    "revision": "7db52c3e4466d68901ea",
     "url": "/inixio-dev/static/css/main.0250cdc9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/inixio-dev/static/js/2.7f428f60.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f33277af2fa4a343bd57",
-    "url": "/inixio-dev/static/js/main.e4e16007.chunk.js"
+    "revision": "7db52c3e4466d68901ea",
+    "url": "/inixio-dev/static/js/main.f3602a14.chunk.js"
   },
   {
     "revision": "872664fd0ac1e00f464a",
