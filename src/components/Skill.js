@@ -5,7 +5,12 @@ import { isMobile } from 'react-device-detect';
 export default function Skill(props) {
     const {name, icons, experience, description} = props;
     return (
-        <div style={isMobile ? {marginTop: "5%"}: {marginTop: "5%"}}>
+        <div style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+            marginTop: "5%"
+          }}>
             <Card>
             <Card.Body>
                 {icons.map(icon => <i style={{margin: 2.5, fontSize: 32}} className={icon}></i>)}

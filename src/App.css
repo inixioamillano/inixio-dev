@@ -17,6 +17,8 @@ h1, h2, h3, h4, h5, h6, .nav-link, .tl-date, .tl-date-mobile, .footer {
 
 .footer {
   color: white;
+  margin-left: 10;
+  margin-right: 10;
 }
 
 .tl-date {
@@ -75,6 +77,7 @@ html {
 
 .circular-image, .icon {
   border-radius: 90%;
+  padding-top: 5px;
 }
 
 

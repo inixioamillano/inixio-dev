@@ -52,17 +52,6 @@ export default function Skills() {
                             icons={["devicon-angularjs-plain colored", "fa fa-graduation-cap", "devicon-csharp-plain colored"]}/>
                     </Col>
                 </Row>
-                {/**<Row>
-                    <Col md={4} sm={12}></Col>
-                    <Col md={4} sm={12}>
-                        <Skill 
-                            name="Idiomas" 
-                            description="Inglés avanzado (Nivel B2) · Euskera avanzado (Nivel B2) · Francés básico (Nivel A2)" 
-                            experience={4} 
-                            icons={["devicon-angularjs-plain colored", "fa fa-graduation-cap", "devicon-csharp-plain colored"]}/>
-                    </Col>
-                    <Col md={4} sm={12}></Col>
-                </Row>*/}
             </Container>
         </div>
     )
