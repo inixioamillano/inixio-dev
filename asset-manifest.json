@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.66635eed.chunk.css",
-    "main.js": "/static/js/main.68cdbb5a.chunk.js",
-    "main.js.map": "/static/js/main.68cdbb5a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4a344367.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4a344367.js.map",
-    "static/css/2.e53f431d.chunk.css": "/static/css/2.e53f431d.chunk.css",
-    "static/js/2.7f428f60.chunk.js": "/static/js/2.7f428f60.chunk.js",
-    "static/js/2.7f428f60.chunk.js.map": "/static/js/2.7f428f60.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b4a4b48dd8ec8a53583f68624c7dfc91.js": "/precache-manifest.b4a4b48dd8ec8a53583f68624c7dfc91.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.e53f431d.chunk.css.map": "/static/css/2.e53f431d.chunk.css.map",
-    "static/css/main.66635eed.chunk.css.map": "/static/css/main.66635eed.chunk.css.map",
-    "static/js/2.7f428f60.chunk.js.LICENSE.txt": "/static/js/2.7f428f60.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/CodenameCoderFree4F-Bold.e39e0d69.woff2"
+    "main.css": "/inixio-dev/static/css/main.0250cdc9.chunk.css",
+    "main.js": "/inixio-dev/static/js/main.f3602a14.chunk.js",
+    "main.js.map": "/inixio-dev/static/js/main.f3602a14.chunk.js.map",
+    "runtime-main.js": "/inixio-dev/static/js/runtime-main.34fec000.js",
+    "runtime-main.js.map": "/inixio-dev/static/js/runtime-main.34fec000.js.map",
+    "static/css/2.e53f431d.chunk.css": "/inixio-dev/static/css/2.e53f431d.chunk.css",
+    "static/js/2.7f428f60.chunk.js": "/inixio-dev/static/js/2.7f428f60.chunk.js",
+    "static/js/2.7f428f60.chunk.js.map": "/inixio-dev/static/js/2.7f428f60.chunk.js.map",
+    "index.html": "/inixio-dev/index.html",
+    "precache-manifest.68cb68d752626e6fbddce29c7ea388f1.js": "/inixio-dev/precache-manifest.68cb68d752626e6fbddce29c7ea388f1.js",
+    "service-worker.js": "/inixio-dev/service-worker.js",
+    "static/css/2.e53f431d.chunk.css.map": "/inixio-dev/static/css/2.e53f431d.chunk.css.map",
+    "static/css/main.0250cdc9.chunk.css.map": "/inixio-dev/static/css/main.0250cdc9.chunk.css.map",
+    "static/js/2.7f428f60.chunk.js.LICENSE.txt": "/inixio-dev/static/js/2.7f428f60.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/inixio-dev/static/media/CodenameCoderFree4F-Bold.e39e0d69.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a344367.js",
+    "static/js/runtime-main.34fec000.js",
     "static/css/2.e53f431d.chunk.css",
     "static/js/2.7f428f60.chunk.js",
-    "static/css/main.66635eed.chunk.css",
-    "static/js/main.68cdbb5a.chunk.js"
+    "static/css/main.0250cdc9.chunk.css",
+    "static/js/main.f3602a14.chunk.js"
   ]
 }
