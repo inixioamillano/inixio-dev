@@ -12,18 +12,6 @@ import Experience from './screens/Experience';
 function App() {
   return (
     <div>
-      {/**<Navbar fixed="top" bg="dark" expand="lg" variant="dark">
-        <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="mr-auto">
-            <Nav.Link className="bg-dark" href="#home">Sobre mí</Nav.Link>
-            <Nav.Link dataToggle="collapse" className="bg-dark" href="#education">Educación</Nav.Link>
-            <Nav.Link className="bg-dark" href="#skills">Habilidades</Nav.Link>
-            <Nav.Link className="bg-dark" href="#experience">Experiencia</Nav.Link>
-          </Nav>
-        </Navbar.Collapse>
-      </Navbar>*/}
       <Container style={{marginTop: isMobile ? 30 : 0}}>
         <Row style={{marginTop: isMobile ? 30 : 0}}>
           <Col md={2} style={{width: "25vh"}}>
@@ -49,7 +37,7 @@ function App() {
                   <Fab className="git" style={{margin: 2}} href="https://github.com/inixioamillano" size="medium">
                     <i class="fa fa-git"></i>
                   </Fab>
-                  <Fab className="twitter" style={{margin: 2}} href="https://github.com/inixioamillano" size="medium" disabled>
+                  <Fab className="twitter" style={{margin: 2}} href="https://twitter.com/inixiodev" size="medium">
                     <i class="fa fa-twitter"></i>
                   </Fab>
                 </div>
@@ -91,7 +79,7 @@ function App() {
                   <Fab className="git" style={{margin: 10}} href="https://github.com/inixioamillano" size="medium">
                     <i class="fa fa-git"></i>
                   </Fab>
-                  <Fab className="twitter" style={{margin: 10}} href="https://github.com/inixioamillano" size="medium" disabled>
+                  <Fab className="twitter" style={{margin: 10}} href="https://twitter.com/inixiodev" size="medium">
                     <i class="fa fa-twitter"></i>
                   </Fab>
               </div>}
