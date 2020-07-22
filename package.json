@@ -2,7 +2,7 @@
   "name": "resumee-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://inixioamillano.github.io/inixio-dev",
+  "homepage": "https://inixio.dev",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
