@@ -17,9 +17,9 @@ export default function Skills() {
                     <Col md={4} sm={12}>
                         <Skill 
                             name="Desarrollo Full Stack" 
-                            description="Desarrollo de aplicaciones web sobre la pila MERN" 
+                            description="Desarrollo de aplicaciones web sobre las pilas MERN y MEAN" 
                             experience={4} 
-                            icons={["devicon-mongodb-plain colored", "devicon-express-original colored", "devicon-react-original colored", "devicon-nodejs-plain colored"]}/>
+                            icons={["devicon-mongodb-plain colored", "devicon-express-original colored", "devicon-angularjs-plain colored", "devicon-react-original colored", "devicon-nodejs-plain colored"]}/>
                     </Col>
                     <Col md={4} sm={12}>
                         <Skill 
@@ -49,7 +49,7 @@ export default function Skills() {
                             name="Otros" 
                             description="Nociones básicas de lenguajes y frameworks en los que continúo formándome" 
                             experience={2.5} 
-                            icons={["devicon-angularjs-plain colored", "fa fa-graduation-cap", "devicon-csharp-plain colored"]}/>
+                            icons={["fa fa-graduation-cap", "devicon-csharp-plain colored"]}/>
                     </Col>
                 </Row>
             </Container>

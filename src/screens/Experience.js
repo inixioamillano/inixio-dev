@@ -34,6 +34,19 @@ export default function Experience() {
                     <h6>Ekinbe S.L.</h6>
                     <h6>Desarrollo de múltiples proyectos en NodeJS, Spring Boot, React o la plataforma Openbravo, entre otros</h6>
                 </VerticalTimelineElement>
+                <VerticalTimelineElement
+                    className="vertical-timeline-element--education"
+                    contentStyle={{ background: '#343A40', color: '#fff' }}
+                    contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
+                    date="Noviembre de 2020 - Presente"
+                    dateClassName={isMobile ? "tl-date-mobile" : "tl-date"}
+                    iconStyle={{ background: '#343A40', color: '#fff' }}
+                    icon={<Work/>}
+                >
+                    <h5>Desarrollador Web Full Stack</h5>
+                    <h6>Hiberus Tecnología</h6>
+                    <h6>Desarrollador full stack</h6>
+                </VerticalTimelineElement>
             </VerticalTimeline>
         </div>
     )
